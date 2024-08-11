@@ -6,3 +6,5 @@
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+cleverest/crproxy:v0.10.0
