@@ -7,8 +7,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+cleverest/crproxy:v0.8.0
 cleverest/crproxy:v0.9.4
 cleverest/crproxy:v0.10.0
+cleverest/crproxy:v0.12.1
 cleverest/crproxy:v0.12.2
 
-registry.k8s.io/ingress-nginx/controller:v1.9.4
