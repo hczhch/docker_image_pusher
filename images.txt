@@ -12,4 +12,4 @@ cleverest/crproxy:v0.9.4
 cleverest/crproxy:v0.10.0
 cleverest/crproxy:v0.12.1
 cleverest/crproxy:v0.12.2
-
+cleverest/crproxy:v0.12.4
